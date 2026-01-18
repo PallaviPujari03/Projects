@@ -22,7 +22,7 @@ Briefly describe the business problem or objective of this project.
 #### 📈 Dashboard / Visualizations
 **Power BI Dashboard:**
 
-![Dashboard Screenshot](images/project1_dashboard.png)
+![Dashboard Screenshot](Screenshot 2026-01-18 222826.png)
 
 > *(Replace the path with your actual image file location)*
 

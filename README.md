@@ -22,9 +22,7 @@ Briefly describe the business problem or objective of this project.
 #### 📈 Dashboard / Visualizations
 **Power BI Dashboard:**
 
-![](Screenshot 2026-01-18 222826.png)
-
-> *(Replace the path with your actual image file location)*
+![](AmazonSales.png)
 
 #### 📄 Full Project Report
 - 📎 [Click here to view full project report](reports/project1_report.pdf)

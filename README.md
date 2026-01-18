@@ -58,23 +58,8 @@ Describe the problem.
 - 📎 [View Project Report](reports/project2_report.pdf)
 
 #### 💡 Key Insights
-- 
-- 
-- 
-
----
-
-## 📂 Repository Structure
-
-```text
-├── PowerBI_Projects/
-├── Excel_Projects/
-├── SQL_Projects/
-├── Tableau_Projects/
-├── images/
-│   ├── project1_dashboard.png
-│   ├── project2_dashboard.png
-├── reports/
-│   ├── project1_report.pdf
+-
+-
+-
 │   ├── project2_report.pdf
 └── README.md
